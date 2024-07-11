@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  h1 {
+    color: #343a40;
+  }
+  
+  .meal-card {
+    margin-bottom: 20px;
+  }
+  
+  .meal-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .meal-card .card-body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
